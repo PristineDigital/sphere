@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'TWK Lausanne';
-  src: url('https://cdn.jsdelivr.net/gh/PristineDigital/conversion/TWKLausanne-300.woff2') format('woff2');
-  font-weight: 300;
+  font-family: 'ABC Diatype';
+  src: url('https://cdn.jsdelivr.net/gh/PristineDigital/sphere@latest/abc-diatype-regular.otf') format('otf');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
@@ -22,7 +22,7 @@
   body {
     background-color: transparent !important;
     color: #21201C;
-    font-family: 'Twk Lausanne', Arial, sans-serif !important;
+    font-family: 'ABC Diatype', Arial, sans-serif !important;
     font-size: 1rem !important;
     font-weight: 300 !important;
     line-height: 1.5 !important;
