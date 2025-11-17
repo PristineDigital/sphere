@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'ABC Diatype';
-  src: url('https://cdn.jsdelivr.net/gh/PristineDigital/sphere@latest/abc-diatype-regular.otf') format('otf');
+  src: url('https://cdn.jsdelivr.net/gh/PristineDigital/sphere@latest/abc-diatype-regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
