@@ -10,10 +10,6 @@
     display: none !important;
   }
   
-  .ashby-embed div[style*="text-align:center"] {
-    display: none !important;
-  }
-  
   /* Keep the job board container visible */
   .ashby-embed #ashby_embed {
     display: block !important;
@@ -37,16 +33,9 @@
   }
   
   ._title_ud4nd_34 {
-    font-family: 'ABC Diatype', Arial, sans-serif;
-    line-height: 1 !important;
-    color: #21201C;
-    font-weight: 400 !important;
-    font-size: 2.5rem !important;
+    display: none !important;
   }
-  
-  ._titles_ud4nd_34{
-    margin: 0 !important;
-  }
+
   ._filtersContainer_12ylk_136 {
     display: none !important;
   }
