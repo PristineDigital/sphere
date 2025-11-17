@@ -1,6 +1,11 @@
+@font-face {
+  font-family: 'TWK Lausanne';
+  src: url('https://cdn.jsdelivr.net/gh/PristineDigital/conversion/TWKLausanne-300.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
 
-
-/* Hide all H1s inside the Ashby embed */
 .ashby-embed h1 {
     display: none !important;
   }
